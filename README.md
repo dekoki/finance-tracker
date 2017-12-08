@@ -17,3 +17,4 @@ Next video to follow: 171 Errors and refactoring
 
 - Controller -> action - stocks_controller.rb search
 
+<a class="navbar-brand" href="#">Workspace</a>
