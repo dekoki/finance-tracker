@@ -9,7 +9,7 @@
 
 This is the finance tracker app form the Complete Ruby on Rails Developer course
 
-Next video to follow: 171 Errors and refactoring
+Next video to follow: 185 Font Awesome in Rails
 
 - Build form
 
@@ -17,4 +17,3 @@ Next video to follow: 171 Errors and refactoring
 
 - Controller -> action - stocks_controller.rb search
 
-<a class="navbar-brand" href="#">Workspace</a>
